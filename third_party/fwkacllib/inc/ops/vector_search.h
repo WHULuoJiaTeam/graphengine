@@ -1,5 +1,6 @@
 /**
- * Copyright (c) Huawei Technologies Co., Ltd. 2021. All rights reserved.
+* Copyright 2021, 2022 LuoJiaNET Research and Development Group, Wuhan University
+* Copyright 2021, 2022 Huawei Technologies Co., Ltd
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -55,7 +56,7 @@ REG_OP(GenADC)
 * @par Inputs:
 * Dynamin inputs, including:
 * @li actual_count: A Tensor of type int32, the actual number of pq_distance.
-* @li pq_distance: A Tensor, Will be updated after calculation. Must be one of the following types: float32, float16. 
+* @li pq_distance: A Tensor, Will be updated after calculation. Must be one of the following types: float32, float16.
 * @li grouped_extreme_distance: A Tensor, the extremum in each group. Must be one of the following types: float32, float16.
 * @li pq_index: A Tensor of type int32, index corresponding to pq_distance.
 * @li pq_ivf: A Tensor of type int32 , the bucket number corresponding to pq_distance.

@@ -1,5 +1,6 @@
 /*
- * Copyright (c) Huawei Technologies Co., Ltd. 2021. All rights reserved.
+* Copyright 2021, 2022 LuoJiaNET Research and Development Group, Wuhan University
+* Copyright 2021, 2022 Huawei Technologies Co., Ltd
  * Description: mbuf and queue interface
  */
 
