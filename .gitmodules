@@ -8,3 +8,7 @@
 	url    = https://gitee.com/mizhangwhuer/metadef.git
 	branch = master
 
+[submodule "parser"]
+	url  = https://gitee.com/mizhangwhuer/parser
+	path = parser
+
